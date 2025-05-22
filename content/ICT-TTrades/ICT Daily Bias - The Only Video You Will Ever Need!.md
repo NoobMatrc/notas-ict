@@ -67,3 +67,80 @@ tags: ["ICT", "price action"]
 >Fair Value Gap (FVG): Brecha en el precio que indica desequilibrio entre oferta y demanda, actuando como imán de precio.
 >
 >Breaker Block: Zona donde una estructura anterior es rota y luego retesteada, actuando como soporte o resistencia.
+
+
+> [!info]- hay algo que no entiendo y no lo describes en el ultimo mensaje no me explicas que significa daily bias y draw on liquidity y a que parte de ICT corresponde, son conceptos o estrategias?
+> 
+>🧠 ¿Qué es Daily Bias y Draw on Liquidity (DOL) en ICT?
+>📌 1. ¿Qué es Daily Bias?
+>Daily Bias significa:
+>
+>“Tendencia esperada del precio para ese día”.
+>
+>En otras palabras, es el sentido direccional (alcista o bajista) que el trader espera que tenga el mercado durante la jornada actual.
+>
+>No es una estrategia en sí, sino una herramienta de análisis que se usa antes de operar, para definir si se buscarán compras o ventas.
+>
+>Se basa en el comportamiento del precio en días anteriores y en la reacción a niveles de liquidez, como los máximos y mínimos anteriores.
+>
+>💡 Ejemplo simple:
+>
+>Si ayer el precio rompió el mínimo del día anterior (PDL) pero luego cerró por encima de él, eso puede ser una señal de que el precio “barrió liquidez” y hoy podría subir. → Bias alcista.
+>
+>📌 2. ¿Qué es Draw on Liquidity (DOL)?
+>Draw on Liquidity se traduce como:
+>
+>“Atracción hacia un nivel de liquidez”.
+>
+>En la metodología ICT, el precio se mueve hacia donde hay liquidez, como:
+>
+>Máximos/mínimos anteriores
+>
+>Swing highs/lows
+>
+>Stops de traders minoristas
+>
+>Order blocks, Fair Value Gaps (FVGs), Breakers, etc.
+>
+>📌 El Draw on Liquidity es el objetivo del precio a corto plazo, como un imán.
+>
+>💡 Ejemplo simple:
+>
+>Si hay un máximo reciente donde probablemente hay stop losses de vendedores, el precio puede subir para tomar esa liquidez antes de caer → eso es un Draw on Liquidity alcista.
+>
+>📚 ¿A qué parte del método ICT pertenecen?
+>Tanto Daily Bias como Draw on Liquidity forman parte de la sección de ICT llamada:
+>
+>“Narrativa de Alto Marco Temporal” (HTF Narrative)
+>O también conocida como “Journaling Directional Bias” o “Directional Framework”
+>
+>En los cursos de ICT (como el 2022 Mentorship), estos conceptos aparecen en las lecciones de:
+>
+>“Daily Bias”
+>
+>“Daily Profile”
+>
+>“Dealing Ranges”
+>
+>“Liquidity Pools”
+>
+>“Power of Three (Po3)”
+
+✅ ¿Son conceptos o estrategias?
+| Término               | ¿Concepto o Estrategia? | Explicación breve                                                     |
+| --------------------- | ----------------------- | --------------------------------------------------------------------- |
+| **Daily Bias**        | Concepto clave          | Define la dirección que se espera para ese día.                       |
+| **Draw on Liquidity** | Concepto clave          | Identifica hacia dónde probablemente se moverá el precio.             |
+| **Estrategia ICT**    | Estrategia              | Usa estos conceptos como base, pero incluye la entrada, gestión, etc. |
+
+📌 Ambos son parte de la planificación previa a la entrada, no son setups por sí solos.
+
+🎯 ¿Cómo se relacionan?
+Usas el Daily Bias para decidir si ese día buscas compras o ventas.
+
+Usas el Draw on Liquidity para saber hacia qué nivel se moverá el precio primero.
+
+Ejemplo:
+
+Bias alcista → Buscarás comprar.
+DOL = Máximo de la semana → Apuntas a ese nivel como take profit.
